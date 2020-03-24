@@ -1,2 +1,4 @@
 # Sharp_Calculator
- Simple calculator in C#.
+ 
+ One of my first C# projects. This is a typical calculator app with a cool icon that runs on Windows.
+ 
